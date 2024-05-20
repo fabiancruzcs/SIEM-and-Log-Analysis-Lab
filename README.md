@@ -1,1 +1,1 @@
-# SIEM-and-Log-Analysis-Lab
+# SIEM and Log Analysis Lab
